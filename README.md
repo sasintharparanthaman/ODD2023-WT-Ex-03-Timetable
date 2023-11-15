@@ -13,6 +13,7 @@ Add your timetable
 Execute the program
 
 # CODE
+```
 <img src="C:\Users\admin\Pictures\Screenshots\Screenshot (48).png" alt=""><br>
 <style>
     table,th,td{
@@ -51,7 +52,7 @@ Execute the program
 </tr></table>
 
 </body>
-
+```
 
 # OUPUT
 ![Screenshot 2023-11-15 131638](https://github.com/sasintharparanthaman/ODD2023-WT-Ex-03-Timetable/assets/145743219/3d6efc04-d206-4c0c-8eab-658cc3560563)
